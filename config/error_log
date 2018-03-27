@@ -1,0 +1,11 @@
+[29-May-2017 18:36:37 Asia/Jakarta] PHP Fatal error:  Call to undefined function env() in /home/betastts/public_html/lavida/config/app.php on line 16
+[29-May-2017 18:36:37 Asia/Jakarta] PHP Fatal error:  Call to undefined function env() in /home/betastts/public_html/lavida/config/broadcasting.php on line 16
+[29-May-2017 18:36:37 Asia/Jakarta] PHP Fatal error:  Call to undefined function env() in /home/betastts/public_html/lavida/config/cache.php on line 16
+[29-May-2017 18:36:37 Asia/Jakarta] PHP Fatal error:  Call to undefined function env() in /home/betastts/public_html/lavida/config/database.php on line 29
+[29-May-2017 18:36:37 Asia/Jakarta] PHP Fatal error:  Call to undefined function storage_path() in /home/betastts/public_html/lavida/config/dompdf.php on line 41
+[29-May-2017 18:36:37 Asia/Jakarta] PHP Fatal error:  Call to undefined function storage_path() in /home/betastts/public_html/lavida/config/filesystems.php on line 48
+[29-May-2017 18:36:37 Asia/Jakarta] PHP Fatal error:  Call to undefined function env() in /home/betastts/public_html/lavida/config/mail.php on line 18
+[29-May-2017 18:36:37 Asia/Jakarta] PHP Fatal error:  Call to undefined function env() in /home/betastts/public_html/lavida/config/queue.php on line 19
+[29-May-2017 18:36:37 Asia/Jakarta] PHP Fatal error:  Call to undefined function env() in /home/betastts/public_html/lavida/config/services.php on line 18
+[29-May-2017 18:36:37 Asia/Jakarta] PHP Fatal error:  Call to undefined function env() in /home/betastts/public_html/lavida/config/session.php on line 19
+[29-May-2017 18:36:37 Asia/Jakarta] PHP Fatal error:  Call to undefined function base_path() in /home/betastts/public_html/lavida/config/view.php on line 17

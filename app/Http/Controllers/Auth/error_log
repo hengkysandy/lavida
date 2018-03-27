@@ -1,0 +1,2 @@
+[29-May-2017 18:37:15 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/betastts/public_html/lavida/app/Http/Controllers/Auth/AuthController.php on line 12
+[29-May-2017 18:37:15 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/betastts/public_html/lavida/app/Http/Controllers/Auth/PasswordController.php on line 9

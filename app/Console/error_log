@@ -1,0 +1,1 @@
+[29-May-2017 18:36:41 Asia/Jakarta] PHP Fatal error:  Class 'Illuminate\Foundation\Console\Kernel' not found in /home/betastts/public_html/lavida/app/Console/Kernel.php on line 9

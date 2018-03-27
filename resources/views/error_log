@@ -1,0 +1,5 @@
+[29-May-2017 18:36:43 Asia/Jakarta] PHP Fatal error:  Class 'Carbon\Carbon' not found in /home/betastts/public_html/lavida/resources/views/pembelian.blade.php on line 6
+[29-May-2017 18:36:44 Asia/Jakarta] PHP Fatal error:  Class 'Carbon\Carbon' not found in /home/betastts/public_html/lavida/resources/views/penjualan.blade.php on line 6
+[29-May-2017 18:36:44 Asia/Jakarta] PHP Notice:  Undefined variable: data in /home/betastts/public_html/lavida/resources/views/tahaplanjutreturan.blade.php on line 48
+[29-May-2017 18:36:44 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/betastts/public_html/lavida/resources/views/tahaplanjutreturan.blade.php on line 48
+[29-May-2017 18:36:44 Asia/Jakarta] PHP Fatal error:  Class 'Carbon\Carbon' not found in /home/betastts/public_html/lavida/resources/views/transaksireturan.blade.php on line 6

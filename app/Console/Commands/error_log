@@ -1,0 +1,1 @@
+[29-May-2017 18:36:58 Asia/Jakarta] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/betastts/public_html/lavida/app/Console/Commands/Inspire.php on line 9

@@ -1,0 +1,2 @@
+[29-May-2017 18:36:41 Asia/Jakarta] PHP Notice:  Undefined variable: factory in /home/betastts/public_html/lavida/database/factories/ModelFactory.php on line 14
+[29-May-2017 18:36:41 Asia/Jakarta] PHP Fatal error:  Call to a member function define() on null in /home/betastts/public_html/lavida/database/factories/ModelFactory.php on line 14

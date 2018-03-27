@@ -1,0 +1,5 @@
+[22-May-2017 18:51:51 Asia/Jakarta] PHP Fatal error:  Class 'Route' not found in /home/betastts/public_html/lavida/app/Http/routes.php on line 14
+[22-May-2017 18:51:56 Asia/Jakarta] PHP Fatal error:  Class 'Route' not found in /home/betastts/public_html/lavida/app/Http/routes.php on line 14
+[22-May-2017 18:52:02 Asia/Jakarta] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home/betastts/public_html/lavida/app/Http/Kernel.php on line 8
+[29-May-2017 18:36:41 Asia/Jakarta] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home/betastts/public_html/lavida/app/Http/Kernel.php on line 8
+[29-May-2017 18:36:41 Asia/Jakarta] PHP Fatal error:  Class 'Route' not found in /home/betastts/public_html/lavida/app/Http/routes.php on line 14

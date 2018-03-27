@@ -1,0 +1,1 @@
+[29-May-2017 18:37:00 Asia/Jakarta] PHP Fatal error:  Class 'App\Notification' not found in /home/betastts/public_html/lavida/resources/views/layouts/master.blade.php on line 29

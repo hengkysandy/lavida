@@ -1,0 +1,9 @@
+[29-May-2017 18:36:59 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/betastts/public_html/lavida/app/Http/Controllers/AdminController.php on line 27
+[29-May-2017 18:36:59 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/betastts/public_html/lavida/app/Http/Controllers/BarangController.php on line 20
+[29-May-2017 18:36:59 Asia/Jakarta] PHP Fatal error:  Class 'Illuminate\Routing\Controller' not found in /home/betastts/public_html/lavida/app/Http/Controllers/Controller.php on line 11
+[29-May-2017 18:36:59 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/betastts/public_html/lavida/app/Http/Controllers/CustomerController.php on line 13
+[29-May-2017 18:36:59 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/betastts/public_html/lavida/app/Http/Controllers/PdfController.php on line 21
+[29-May-2017 18:36:59 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/betastts/public_html/lavida/app/Http/Controllers/PembelianController.php on line 17
+[29-May-2017 18:36:59 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/betastts/public_html/lavida/app/Http/Controllers/PenjualanController.php on line 21
+[29-May-2017 18:36:59 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/betastts/public_html/lavida/app/Http/Controllers/SupplierController.php on line 13
+[29-May-2017 18:36:59 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/betastts/public_html/lavida/app/Http/Controllers/TransaksiController.php on line 26

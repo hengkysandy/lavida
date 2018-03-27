@@ -1,0 +1,1 @@
+[29-May-2017 18:36:41 Asia/Jakarta] PHP Fatal error:  Trait 'Illuminate\Bus\Queueable' not found in /home/betastts/public_html/lavida/app/Jobs/Job.php on line 20

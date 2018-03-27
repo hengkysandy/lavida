@@ -1,0 +1,2 @@
+[22-May-2017 18:52:05 Asia/Jakarta] PHP Fatal error:  Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/betastts/public_html/lavida/app/Http/Requests/Request.php on line 8
+[29-May-2017 18:36:59 Asia/Jakarta] PHP Fatal error:  Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/betastts/public_html/lavida/app/Http/Requests/Request.php on line 8

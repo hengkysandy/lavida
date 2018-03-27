@@ -1,0 +1,2 @@
+[29-May-2017 18:37:00 Asia/Jakarta] PHP Fatal error:  Class 'App\PembelianDetail' not found in /home/betastts/public_html/lavida/resources/views/pdf/pembelianpdf.blade.php on line 24
+[29-May-2017 18:37:00 Asia/Jakarta] PHP Fatal error:  Class 'App\PenjualanDetail' not found in /home/betastts/public_html/lavida/resources/views/pdf/penjualanPdf.blade.php on line 30

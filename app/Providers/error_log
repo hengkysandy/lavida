@@ -1,0 +1,4 @@
+[29-May-2017 18:36:41 Asia/Jakarta] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/betastts/public_html/lavida/app/Providers/AppServiceProvider.php on line 8
+[29-May-2017 18:36:41 Asia/Jakarta] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/betastts/public_html/lavida/app/Providers/AuthServiceProvider.php on line 9
+[29-May-2017 18:36:41 Asia/Jakarta] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/betastts/public_html/lavida/app/Providers/EventServiceProvider.php on line 9
+[29-May-2017 18:36:41 Asia/Jakarta] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/betastts/public_html/lavida/app/Providers/RouteServiceProvider.php on line 9
